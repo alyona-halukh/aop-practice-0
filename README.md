@@ -1,4 +1,4 @@
-# aop-practice-0
+# Звіт з практичного заняття №0
 
 # 👩‍💻 Галух Альона
 
@@ -14,23 +14,34 @@
 
 ### Java
 
-```bash
-java -version
-java version "26.0.2.1" 2026-08-18
-Java(TM) SE Runtime Environment (build 26.0.2.1+1-7)
-Java HotSpot(TM) 64-Bit Server VM (build 26.0.2.1+1-7, mixed mode, sharing)
-```
+![java](/img/Screenshot_1.png)
 
-```bash
-javac -version
-javac 26.0.2.1
-```
+![java](/img/Screenshot_2.png)
 
 ### Git
 
-```bash
-git --version
-git version 2.55.0.windows.5
-```
+![java](/img/Screenshot_3.png)
 
----
+![java](/img/Screenshot_4.png)
+
+### Перевірка SSH-з'єднання з GitHub
+
+![java](/img/Screenshot_5.png)
+
+### Виконання програми Hello, World!
+
+![java](/img/Screenshot_6.png)
+
+### Розв'язання задачі Welcome to Java!
+
+![java](/img/Screenshot_7.png)
+
+### Використання інструментів штучного інтелекту ChatGPT та Claude Code
+
+![java](/img/Screenshot_8.png)
+
+Доступ до Claude Code не оформлювався.
+
+### Проблеми під час встановлення
+Під час встановлення та налаштування інструментів проблем не виникло. 
+Усі необхідні програми встановлено та перевірено успішність їх роботи.
